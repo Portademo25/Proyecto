@@ -116,31 +116,31 @@
 				<div class="container ui-repeater" id="ServicesA2Services">
 					<ul class="services-list">
 						<li class="flex-column auto relative" data-item="i" data-key="">
-							<a class="relative" href="/our-services/regular-cleaning-service/">
+							<a class="relative" href="">
 							 Recurring Cleaning Service
 							</a>
 						</li><li class="flex-column auto relative" data-item="i" data-key="">
-							<a class="relative" href="/our-services/occasional-cleaning-service/">
+							<a class="relative" href="">
 							 Occasional Cleaning Service
 							</a>
 						</li><li class="flex-column auto relative" data-item="i" data-key="">
-							<a class="relative" href="/our-services/move-out-cleaning/">
+							<a class="relative" href="">
 							 Move Out &amp; Move In Cleaning
 							</a>
 						</li><li class="flex-column auto relative" data-item="i" data-key="">
-							<a class="relative" href="/our-services/apartment-cleaning/">
+							<a class="relative" href="">
 							 Apartment Cleaning
 							</a>
 						</li><li class="flex-column auto relative" data-item="i" data-key="">
-							<a class="relative" href="/our-services/special-event-cleaning/">
+							<a class="relative" href="">
 							 Special Event Cleaning
 							</a>
 						</li><li class="flex-column auto relative" data-item="i" data-key="">
-							<a class="relative" href="/our-services/housekeeping-services/">
+							<a class="relative" href="">
 							 Housekeeping Services
 							</a>
 						</li>
-						<li><a href="/our-services/" class="btn v3">View All Services</a></li>
+						<li><a href="" class="btn v3">View All Services</a></li>
 					</ul>
 				</div>
 			</div>
