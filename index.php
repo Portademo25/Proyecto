@@ -100,7 +100,7 @@
 				<div class="overlap-padding">
 					<div class="content-style" id="ServicesA2MainContent"><h2>We’re Maid for This!</h2>
 <p>Imagine coming home after a long day to a place that’s clean, orderly,
-	 and welcoming. Molly Maid is here to make that dream come true. As an
+	 and welcoming.  is here to make that dream come true. As an
 	 industry-leading company that’s been providing trusted house cleaning
 	 services since 1984, we realize that your needs are unique. That’s
 	 why we take the time to offer services that work with your budget, cleaning
@@ -167,7 +167,7 @@
 				<div class="overlap-padding">
 					<header id="ContentBHeader"><h3>No Contracts Ever</h3>
 </header>
-					<div class="content-style" id="ContentBMainContent">Since 1984, Molly Maid has been providing cleaning solutions to fit the
+					<div class="content-style" id="ContentBMainContent">Since 1984,  has been providing cleaning solutions to fit the
  needs and busy lifestyles of our clients. Our friendly professionals strive
  to earn your loyalty every time we clean, which is why we make setting
  up house cleaning services as easy as can be. Whether you are looking
