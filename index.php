@@ -90,19 +90,109 @@
         </span>
       </div>
 
+
+
+      <section class="services-a2 light-bg col-50-50 items-spaced text-left bg-box-unlike show" id="ServicesA2" data-onvisible="show">
+	
+	<div class="main">
+		<div class="flex-between-auto-responsive-margined-flip item-widths item-spacing align-items flex-direction">
+			<div class="text-align vertical-padding-small block-no-pad">
+				<div class="overlap-padding">
+					<div class="content-style" id="ServicesA2MainContent"><h2>We’re Maid for This!</h2>
+<p>Imagine coming home after a long day to a place that’s clean, orderly,
+	 and welcoming. Molly Maid is here to make that dream come true. As an
+	 industry-leading company that’s been providing trusted house cleaning
+	 services since 1984, we realize that your needs are unique. That’s
+	 why we take the time to offer services that work with your budget, cleaning
+	 preferences, and busy lifestyle.</p>
+</div>
+				</div>
+			</div>
+			<div class="vertical-padding-small relative services-sec">
+				<picture class="services-img" role="presentation" data-role="picture">
+					<source media="(max-width: 500px)" srcset="https://d2r9rwdd16p1f0.cloudfront.net/images/services/apartment-cleaning.jpg">
+					<img src="https://d2r9rwdd16p1f0.cloudfront.net/images/services/apartment-cleaning.jpg" alt="Modern bedroom with side table and lamp." title="Modern bedroom with side table and lamp.">
+				</picture>
+				<div class="container ui-repeater" id="ServicesA2Services">
+					<ul class="services-list">
+						<li class="flex-column auto relative" data-item="i" data-key="">
+							<a class="relative" href="/our-services/regular-cleaning-service/">
+							 Recurring Cleaning Service
+							</a>
+						</li><li class="flex-column auto relative" data-item="i" data-key="">
+							<a class="relative" href="/our-services/occasional-cleaning-service/">
+							 Occasional Cleaning Service
+							</a>
+						</li><li class="flex-column auto relative" data-item="i" data-key="">
+							<a class="relative" href="/our-services/move-out-cleaning/">
+							 Move Out &amp; Move In Cleaning
+							</a>
+						</li><li class="flex-column auto relative" data-item="i" data-key="">
+							<a class="relative" href="/our-services/apartment-cleaning/">
+							 Apartment Cleaning
+							</a>
+						</li><li class="flex-column auto relative" data-item="i" data-key="">
+							<a class="relative" href="/our-services/special-event-cleaning/">
+							 Special Event Cleaning
+							</a>
+						</li><li class="flex-column auto relative" data-item="i" data-key="">
+							<a class="relative" href="/our-services/housekeeping-services/">
+							 Housekeeping Services
+							</a>
+						</li>
+						<li><a href="/our-services/" class="btn v3">View All Services</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+
+      <div style="height:100px" class="hr hr-invisible avia-builder-el-23 el_after_av_one_third  el_before_av_one_half">
+        <span class="hr-inner">
+          <span class="hr-inner-style"></span>
+        </span>
+      </div>
+
       <section class="content-b light-bg text-left col-50-50 vertical-middle items-spaced bg-box-none show" id="ContentB" data-onvisible="show">
-        <div class="main">
-          <div class="flex-spaced-between-auto-responsive-margined flex-direction align-items item-spacing item-widths">
-            <div class="text-align bg-box side-padding under-item vertical-padding-small">
-              <div class="overlap-padding">
-                  <header id="ContentBHeader">
-                    <h3>History</h3>
-                  </header>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+	
+	
+	<div class="main">
+		<div class="flex-spaced-between-auto-responsive-margined flex-direction align-items item-spacing item-widths">
+			<div class="text-align bg-box side-padding under-item vertical-padding-small">
+				<div class="overlap-padding">
+					<header id="ContentBHeader"><h3>No Contracts Ever</h3>
+</header>
+					<div class="content-style" id="ContentBMainContent">Since 1984, Molly Maid has been providing cleaning solutions to fit the
+ needs and busy lifestyles of our clients. Our friendly professionals strive
+ to earn your loyalty every time we clean, which is why we make setting
+ up house cleaning services as easy as can be. Whether you are looking
+ to request services one time or create a routine cleaning plan, you'll
+ never have to worry about signing a contract.
+</div>
+				</div>
+			</div>
+			<div class="over-item flex-column-middle" id="ContentBTagline">
+				<picture class="img bg-position pad-height-75 full fit" role="presentation" data-role="picture">
+					<source media="(max-width: 500px)" srcset="https://d2r9rwdd16p1f0.cloudfront.net/assets/content/content-b-img-mobile.jpg">
+					<img src="https://d2r9rwdd16p1f0.cloudfront.net/assets/content/content-b-img.jpg" alt="Aerial shot of two houses with pools" title="Aerial shot of two houses with pools">
+				</picture>
+				
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<div style="height:100px" class="hr hr-invisible avia-builder-el-23 el_after_av_one_third  el_before_av_one_half">
+        <span class="hr-inner">
+          <span class="hr-inner-style"></span>
+        </span>
+      </div>
 
     <?php  include 'partials/footer.php'  ?>
     <script src="js/jquery.js"></script>
