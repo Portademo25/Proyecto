@@ -643,7 +643,7 @@ p {
     width: 100%;
     right: calc(50% + 2.222em);
 }
-services-a2 .services-img {
+.services-a2 .services-img {
   width: 100%;
   height: calc(100% - 4.5rem);
   position: absolute;
@@ -680,13 +680,29 @@ img {
   -ms-interpolation-mode: bicubic;
   max-width: 100%;
 }
+.services-a2 li:last-child {
+  padding-left: .25rem;
+}
 .services-a2 .container {
   padding-left: 50%;
+}
+
+.services-a2 li:before {
+  position: absolute;
+  content: '';
+  width: .25em;
+  height: .25em;
+  background-color: #0071fe;
+  left: -1em;
+  top: 50%;
+  transform: translateY(-50%);
+  border-radius: 50%;
 }
 ul {
   list-style: none;
   margin: 0;
   padding: 0;
+  list-style-type: disc;
 }
 ul {
   display: block;
@@ -706,4 +722,17 @@ ul {
 .services-a2 li a {
   color: #071d49;
   padding: .35em .25em;
+}
+.relative {
+  position: relative;
+}
+a {
+  text-decoration: none;
+  transition: color .4s ease 0s;
+}
+.btn.v3 {
+  color: #0071fe ;
+  position: relative;
+  padding: .25em 0;
+  font-weight: 600;
 }
