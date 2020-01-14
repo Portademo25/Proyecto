@@ -546,51 +546,6 @@ h2{
   font-size: 1rem;
 }
 
-.btn.v1{
-  color: #FFFFFF;
-}
-.btn.v1 {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 1rem;
-  letter-spacing: 0em;
-  line-height: 1.2;
-  font-weight: 400;
-  text-transform: none;
-  border-radius: .25em;
-  border: solid 1px;
-  border-color: #0071fe ;
-  position: relative;
-    padding: .7em 1.5em;
-    z-index: 1
-}
-
-.btn{
-  display: inline-block;
-    position: relative;
-    cursor: pointer;
-    text-align: center;
-    padding: .7em 1.5em;
-    transition: background-color .5s ease 0s, color .5s ease 0s;
-    will-change: background-color, color;
-}
-
-
-
-
-.btn.v1::before {
-  height: 100%;
-  transform: none;
-}
-.btn.v1::before, .btn.v1::after {
-  content: '';
-  display: block;
-  position: absolute;
-  width: 100%;
-  left: 0;
-  bottom: 0;
-  z-index: -1;
-  border-radius: .25em;
-}
 *, *:before, *:after {
   box-sizing: border-box;
 }
@@ -735,4 +690,9 @@ a {
   position: relative;
   padding: .25em 0;
   font-weight: 600;
+}
+#top .flex_column_table {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
 }

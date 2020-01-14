@@ -44,45 +44,8 @@
         <span class="hr-inner">
           <span class="hr-inner-style"></span>
         </span>
-      </div>
-
-
-      <div class="flex_column_table ev">
-        <div class="row3">
-          <div class="col">
-            <div class="card">
-              <img  class="card-img-top "src="" >
-              <div class="card-body">
-                  <h4 class="card-tittle">Description</h4>
-                  <p class="card-text"></p>
-                  <a href="" class="btn btn-info">See More</a>
-              </div>
-            </div>
-          </div>
-        </div>
-          
-          <div class="col">
-            <div class="card">
-              <img class="card-img-top" src="">
-              <div class="card-body">
-                  <h4 class="card-tittle"></h4>
-                  <p class="card-text"></p>
-                  <a href="" class="btn btn-info">See More</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col">
-            <div class="card">
-              <img class="card-img-top" src="">
-              <div class="card-body">
-                  <h4 class="card-tittle"></h4>
-                  <p class="card-text"></p>
-                  <a href="" class="btn btn-info">See More</a>
-              </div>
-            </div>
-          </div>
-      </div>
+</div>  
+     
 
       <div style="height:100px" class="hr hr-invisible avia-builder-el-23 el_after_av_one_third  el_before_av_one_half">
         <span class="hr-inner">
@@ -110,8 +73,8 @@
 			</div>
 			<div class="vertical-padding-small relative services-sec">
 				<picture class="services-img" role="presentation" data-role="picture">
-					<source media="(max-width: 500px)" srcset="https://d2r9rwdd16p1f0.cloudfront.net/images/services/apartment-cleaning.jpg">
-					<img src="https://d2r9rwdd16p1f0.cloudfront.net/images/services/apartment-cleaning.jpg" alt="Modern bedroom with side table and lamp." title="Modern bedroom with side table and lamp.">
+					<source media="(max-width: 500px)" srcset="https://r-cf.bstatic.com/images/hotel/max1024x768/389/38977679.jpg">
+					<img src="https://r-cf.bstatic.com/images/hotel/max1024x768/389/38977679.jpg" alt="Modern bedroom with side table and lamp." title="Modern bedroom with side table and lamp.">
 				</picture>
 				<div class="container ui-repeater" id="ServicesA2Services">
 					<ul class="services-list">
@@ -122,10 +85,6 @@
 						</li><li class="flex-column auto relative" data-item="i" data-key="">
 							<a class="relative" href="">
 							 Occasional Cleaning Service
-							</a>
-						</li><li class="flex-column auto relative" data-item="i" data-key="">
-							<a class="relative" href="">
-							 Move Out &amp; Move In Cleaning
 							</a>
 						</li><li class="flex-column auto relative" data-item="i" data-key="">
 							<a class="relative" href="">
@@ -140,7 +99,7 @@
 							 Housekeeping Services
 							</a>
 						</li>
-						<li><a href="" class="btn v3">View All Services</a></li>
+						<li><a href="Services.php" class="btn v3">View All Services</a></li>
 					</ul>
 				</div>
 			</div>
