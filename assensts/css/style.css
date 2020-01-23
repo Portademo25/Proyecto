@@ -696,3 +696,114 @@ a {
   table-layout: fixed;
   width: 100%;
 }
+main {
+  display: block;
+}
+section.sub-banner-a {
+  padding-top: 6%;
+  padding-bottom: 6%;
+}
+section:not(.no-padding), .vertical-padding {
+  padding-top: 4.5rem;
+  padding-bottom: 4.5rem;
+}
+picture.img-bg{
+  position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    pointer-events: none;
+}
+.main {
+  width: 100%;
+  max-width: 75.2em;
+  margin: 0 auto;
+  position: relative;
+  padding-left: 4%;
+  padding-right: 4%;
+}
+.bg-box-none .bg-box:not(.like-bg):not(.unlike-bg):not(.bordered) {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.sub-banner-a.bg-box-none .info {
+  padding-left: 0;
+  padding-right: 0;
+}
+.text-center .text-align{
+  text-align: center;
+}
+.side-padding-medium {
+  padding-left: calc(4% * 1.5);
+  padding-right: calc(4% * 1.5);
+}
+.dark-bg .bg-box{
+  border-color: #F6F6F6;
+}
+.vertical-padding {
+  padding-top: 4.5rem;
+  padding-bottom: 4.5rem;
+}
+.bg-box {
+  display: block;
+}
+.bg-box {
+  z-index: 1;
+  position: relative;
+}
+.bg-image .bg-box::before{
+  opacity: .85;
+}
+.bg-box::before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+.title-font{
+  font-family: big-caslon-fb, serif;
+    font-size: 1em;
+    letter-spacing: 0;
+    line-height: 1.2;
+    font-weight: 400;
+    text-transform: uppercase;
+    display: block;
+    font-style: normal;
+
+}
+.sub-banner-a .title-font > strong{
+  font-size: calc(1.667rem * .9);
+}
+.sub-banner-a .title-font > strong{
+  font-size: 1.667rem;
+    letter-spacing: .33em;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.title-font > strong {
+  font-family: big-caslon-fb, serif;
+  font-size: 1em;
+  letter-spacing: 0;
+  line-height: 1.2;
+  font-weight: 400;
+  text-transform: uppercase;
+  display: block;
+  font-style: normal;
+}
+.dark-bg .title-color-1{
+  color: #FFFCFD;
+}
+.text-center .text-align{
+  text-align: center;
+}
+section {
+  display: block;
+}
+section:not(.bg-image) > picture.img-bg{
+  display: none;
+}
