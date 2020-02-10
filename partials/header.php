@@ -16,7 +16,7 @@
 
       <nav class="menu-fixed" style="left:0px;">
       <ul style="padding-right: 200px;margin-right: 200px;border-top-style: solid;border-top-width: 0px;border-left-style: solid;border-left-width: 0px;margin-left: 0px;margin-bottom: -3rem; padding-bottom: 48px;">
-        <li><a href="#"style="padding-botton: 5px;" ><img src="img\Logos\Texven Logo 4K No Background White Small.png" height="50px"></a></li>
+        <li><a href="index.php"style="padding-botton: 5px;" ><img src="img\Logos\Texven Logo 4K No Background White Small.png" height="50px"></a></li>
         <li><a href="Services.php"  style="margin-top:15px; margin-right:15px;">Services</a></li>
         <li><a href="#" style="margin-top:15px; margin-right:15px;">About us</a></li>
         <li><a href="#" style="margin-top:15px; margin-right:15px;">Contact</a></li>

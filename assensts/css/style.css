@@ -704,8 +704,8 @@ section.sub-banner-a {
   padding-bottom: 6%;
 }
 section:not(.no-padding), .vertical-padding {
-  padding-top: 4.5rem;
-  padding-bottom: 4.5rem;
+  padding-top: calc(4.5rem * .8);
+  padding-bottom: calc(4.5rem * .8);
 }
 picture.img-bg{
   position: absolute;
@@ -748,8 +748,6 @@ picture.img-bg{
 }
 .bg-box {
   display: block;
-}
-.bg-box {
   z-index: 1;
   position: relative;
 }
@@ -801,9 +799,84 @@ picture.img-bg{
 .text-center .text-align{
   text-align: center;
 }
-section {
-  display: block;
-}
+
 section:not(.bg-image) > picture.img-bg{
   display: none;
+}
+
+picture img[src*=".jpg"] {
+  object-fit: cover;
+}
+
+[class*="flex-"][class*="-wrap"]{
+  flex-wrap: wrap;
+}
+
+[class*="auto-size"][class*="flex-"][class*="max-5"] > :nth-last-of-type(8):first-of-type{
+  min-width: calc(25% - 1.5rem);
+}
+
+[class*="auto-size"][class*="flex-"] > :nth-last-of-type(8):first-of-type{
+  width: 25%;
+}
+
+[class*="auto-size"][class*="flex-"] > *{
+  min-width: calc(20%- 1.5rem);
+}
+
+.services-parent ul li{
+  padding-right: .75em;
+  padding-bottom: .75em;
+}
+
+.services-parent ul li a{
+  height: 11.11em;
+  overflow: hidden;
+}
+.light-bg a{
+  color: #0071fe ;
+}
+.services-parent ul li a img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+img[style*=".jpg"]{
+  background-size: cover;
+}
+
+img[style*="background-size"]{
+  background-position: center;
+  background-repeat: no-repeat;
+}
+[class*="flex-"][class*="-center"]{
+  justify-content: center;
+}
+
+.services-parent ul li a span {
+  background-color:#FFFFFF;
+color:#071d49;
+  position: absolute;
+  bottom: -1em;
+  left: 0;
+  width: calc(100% - 1em);
+  padding: 1em .5em;
+  line-height: 1.2em;
+  height: 4.5em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  transition: bottom .4s ease;
+}
+
+.services-parent ul li a span em {
+  text-decoration: underline;
+  color: #0071fe;
+  font-style: normal;
+  display: block;
+  font-size: .889em;
+  opacity: 0;
+  transition: opacity .4s ease;
 }

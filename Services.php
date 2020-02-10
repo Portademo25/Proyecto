@@ -79,12 +79,12 @@
 		<ul class="flex-small-wrap-auto-size-max-5 ui-repeater" id="ServicesParentServices">
 			<li class="flex-column auto relative" data-item="i" data-key="">
 				<a class="flex-column-center-middle relative auto" href="/our-services/regular-cleaning-service/">
-					 <img class="absolute" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" title="" style="background-image:url(/images/services/regular-cleaning.jpg)">
+					 <img class="absolute" src="https://lh3.googleusercontent.com/proxy/nUB6i0S4-s2gWrY4lQzy6rxxF18ZzCg0tBy9bUol7QE6qLWh6UgOKETQy8kbIQ6KsSsqWh8IfK0AZd26BeqVvsyZPgey7O2a8Ptcj95vMLcx895pgHVXxye939yzsXBybob7g2zoAXhozdo0" alt="" title="" style="background-image:url(/images/services/regular-cleaning.jpg)">
 					<span><strong>Recurring Cleaning Service</strong><em>Read More</em></span>
 				</a>
 			</li><li class="flex-column auto relative" data-item="i" data-key="">
 				<a class="flex-column-center-middle relative auto" href="/our-services/occasional-cleaning-service/">
-					 <img class="absolute" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" title="" style="background-image:url(/images/services/occasional-cleaning.jpg)">
+					 <img class="absolute" src="https://lh3.googleusercontent.com/proxy/nUB6i0S4-s2gWrY4lQzy6rxxF18ZzCg0tBy9bUol7QE6qLWh6UgOKETQy8kbIQ6KsSsqWh8IfK0AZd26BeqVvsyZPgey7O2a8Ptcj95vMLcx895pgHVXxye939yzsXBybob7g2zoAXhozdo0" alt="" title="" style="background-image:url(/images/services/occasional-cleaning.jpg)">
 					<span><strong>Occasional Cleaning Service</strong><em>Read More</em></span>
 				</a>
 			</li><li class="flex-column auto relative" data-item="i" data-key="">

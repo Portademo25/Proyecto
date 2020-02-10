@@ -15,12 +15,12 @@
     <?php  include 'partials/header.php'   ?>
         <div id="slider-container">
         <div id="slide-0" class="slide fade">
-      <img src="img/Publicidad/tex4.png"  width="1350" height="660" alt="Img 0">
+      <img src="img/Publicidad/tex4.PNG"  width="1350" height="660" alt="Img 0">
       
       
     </div>
     <div id="slide-1" class="slide fade">
-      <img src="img/Publicidad/tex6.png"  width="1350" height="660" alt="Img 1">
+      <img src="img/Publicidad/tex6.PNG"  width="1350" height="660" alt="Img 1">
     </div>
     <div id="slide-2" class="slide fade">
       <img src="img/Publicidad/tex5.PNG" width="1350" height="660" alt="Img 2">
@@ -40,49 +40,7 @@
     </div>
         </div>
 
-        <div style="height:100px" class="hr hr-invisible avia-builder-el-23 el_after_av_one_third  el_before_av_one_half">
-        <span class="hr-inner">
-          <span class="hr-inner-style"></span>
-        </span>
-      </div>
-
-
-      <div class="flex_column_table ev">
-        <div class="row3">
-          <div class="col">
-            <div class="card">
-              <img  class="card-img-top "src="" >
-              <div class="card-body">
-                  <h4 class="card-tittle">Description</h4>
-                  <p class="card-text"></p>
-                  <a href="" class="btn btn-info">See More</a>
-              </div>
-            </div>
-          </div>
-        </div>
-          
-          <div class="col">
-            <div class="card">
-              <img class="card-img-top" src="">
-              <div class="card-body">
-                  <h4 class="card-tittle"></h4>
-                  <p class="card-text"></p>
-                  <a href="" class="btn btn-info">See More</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col">
-            <div class="card">
-              <img class="card-img-top" src="">
-              <div class="card-body">
-                  <h4 class="card-tittle"></h4>
-                  <p class="card-text"></p>
-                  <a href="" class="btn btn-info">See More</a>
-              </div>
-            </div>
-          </div>
-      </div>
+        
 
       <div style="height:100px" class="hr hr-invisible avia-builder-el-23 el_after_av_one_third  el_before_av_one_half">
         <span class="hr-inner">
@@ -98,6 +56,9 @@
 		<div class="flex-between-auto-responsive-margined-flip item-widths item-spacing align-items flex-direction">
 			<div class="text-align vertical-padding-small block-no-pad">
 				<div class="overlap-padding">
+				<header id="ServicesA2ContentHeader">
+						<h1>Our Cleaning <br><strong>Services</strong></h1>
+					</header>
 					<div class="content-style" id="ServicesA2MainContent"><h2>We Care About You, And Go Beyond Basic Cleaning</h2>
 <p>We are so much more than just a cleaning company. We are a lifestyle brand that is focused on giving you back time to do other things. We can handle your home from top to bottom and go far beyond sweeping, mopping, and dusting. With years of service and countless hours spent in customer’s homes, we have learned quite a bit about the individual requirements of specific rooms. That’s why we’ve tailored our cleaning services for the variety of spaces we encounter.</p>
 </div>
