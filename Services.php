@@ -13,7 +13,8 @@
 </head>
 <body style="border-top-width: 76px;border-top-style: solid;">
     <?php  include 'partials/header.php'   ?>
-    <main id="MainZone"><section class="sub-banner-a bg-image dark-bg bg-box-none text-center" id="SubBannerA">
+    <main id="MainZone">
+		<section class="sub-banner-a bg-image dark-bg bg-box-none text-center" id="SubBannerA">
 	
 	<picture class="img-bg" role="presentation">
 		<source media="(max-width: 500px)" srcset="https://d2r9rwdd16p1f0.cloudfront.net/images/banners/Sub-Banner-default.jpg">
